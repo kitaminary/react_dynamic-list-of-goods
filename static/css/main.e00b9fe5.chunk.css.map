@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Goods/Goods.scss"],"names":[],"mappings":"AACE,kBACE,iBAAkB","file":"main.e00b9fe5.chunk.css","sourcesContent":[".good {\n  &__list {\n    text-align: center;\n  }\n}\n"]}
